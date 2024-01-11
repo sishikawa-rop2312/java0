@@ -6,6 +6,7 @@ public class Main {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Mainブランチです");
 		System.out.println("20240110追加");
+		System.out.println("20240111追加");
 		System.out.println("すがわらです");
 		System.out.println("31歳です");
 		System.out.println("お酒が好きです");
